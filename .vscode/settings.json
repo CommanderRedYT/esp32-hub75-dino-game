@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "default": "nginx",
+        "*.cmake": "makefile",
+        "limits": "cpp"
+    }
+}
